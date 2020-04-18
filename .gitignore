@@ -1,0 +1,5 @@
+docker
+bulletin-board-app
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
